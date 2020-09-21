@@ -2,6 +2,9 @@
 
 #using javascript or typescript
 
+![mapppp](https://user-images.githubusercontent.com/37867005/93746135-ecb37f80-fbf4-11ea-91fe-7b2262f22a2f.JPG)
+
+
 If you want to use it in an angular, ionic app do the following steps
 
 1. In your app.ts 
